@@ -14,7 +14,7 @@ O administrador realiza o cadastro das telas e subtelas específicas para cada u
 ![Página Inicial](https://i.imgur.com/F0ABbzE.png)
 
 ### Página de Usuários
-![Página de Usuários](https://i.imgur.com/WrgwUBX.png)
+![Página de Usuários](https://i.imgur.com/78xWWKa.png)
 
 ### Página Editar Usuários
 ![Página Editar Usuários](https://i.imgur.com/W9Ukt0O.png)
