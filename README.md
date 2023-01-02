@@ -26,3 +26,9 @@ O administrador realiza o cadastro das telas e subtelas específicas para cada u
 ### Página Planilha Ativa
 ![Página Planilha Ativa](https://i.imgur.com/3xaVgRV.png)
 
+
+## Stack utilizada
+
+**View:** Handlebars
+
+**Back-end:** Node, Express
