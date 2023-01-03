@@ -32,3 +32,5 @@ O administrador realiza o cadastro das telas e subtelas específicas para cada u
 **View:** Handlebars
 
 **Back-end:** Node, Express
+
+**Arquitetura:** MVC
