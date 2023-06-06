@@ -2,7 +2,7 @@
 # EMBY
 
 
-O objetivo deste projeto é suprir a necessidade de controlar o acesso dos usuários as planilhas do google. 
+Este projeto foi desenvolvido para a Prefeitura Municipal de Pará de Minas, o objetivo deste projeto é suprir a necessidade de controlar o acesso dos usuários as planilhas do google. 
 
 O administrador realiza o cadastro das telas e subtelas específicas para cada usuário, as páginas são renderizadas dinamicamente de acordo com o cadastro do usuário.
 
